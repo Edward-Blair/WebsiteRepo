@@ -1,2 +1,3 @@
 # WebsiteRepo
-A portfolio website for personal development
+
+* A Decentralised personal portfolio website, hosted on the Ethereum blockchain and deployed using Fleek.
